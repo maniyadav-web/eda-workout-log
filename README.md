@@ -20,3 +20,8 @@ Using an initial data audit (`df.info()` and `df.isnull()`), the following issue
 ## 🚀 Tech Stack Used
 * **Language:** Python
 * **Libraries:** Pandas (Data manipulation), Matplotlib (Data Visualization)
+
+## 📂 Repository Structure
+* `data.csv` - The original, unedited dataset with formatting errors.
+* `pandas-practice-dataset` - The complete Python code executing the cleanup and plotting the charts.
+* `*.png` - Visualizations demonstrating pulse relationships, calorie trends, and workout frequencies.
